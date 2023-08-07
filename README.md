@@ -42,4 +42,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BillCarioca&repo=angula-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/BillCarioca/angula-pokedex)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BillCarioca&repo=javamongodb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/BillCarioca/javamongodb)
-![Snake animation](https://github.com/BillCarioca/BillCarioca/blob/output/github-contribution-grid-snake.svg)
+
